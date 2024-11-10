@@ -41,7 +41,7 @@
 
 // *** set interval ***
 const id = setInterval(() => {
-, 1000 );
+}, 1000 );
     
     const id2 = setInterval(() => {
         // HTML dom
